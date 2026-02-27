@@ -12,7 +12,7 @@ header-includes:
 - PHY411: Do problems 1–3
 - PHY 506: Do problems 1-3 (harder versions)
 
-Accept the assignment from github classroom: https://classroom.github.com/a/xyz. This will create a new repository for you on github, titled something like `compphys-assignment8-username`.
+Accept the assignment from github classroom: https://classroom.github.com/a/tK--iBmU. This will create a new repository for you on github, titled something like `compphys-assignment8-username`.
 You should submit your code through github classroom, and your writeup through UBLearns. If you prefer, you can do your writeup "in-line" in your notebooks (using Markdown cells), convert the notebook to HTML/PDF/etc., and upload the converted notebooks.
 
 
